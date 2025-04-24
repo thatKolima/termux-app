@@ -1,3 +1,14 @@
+***Unnoficial fork for school project, please consult the origninal project or another trusted fork for your needs***
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+
+
+
+
 # Termux application
 
 [![Build status](https://github.com/termux/termux-app/workflows/Build/badge.svg)](https://github.com/termux/termux-app/actions)
